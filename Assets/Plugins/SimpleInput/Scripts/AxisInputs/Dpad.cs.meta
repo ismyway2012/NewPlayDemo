@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 98005cf4195d9954cb478595517f0d7c
+timeCreated: 1504727596
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281506
+  packageName: Fast Food Rush - Hyper Casual Restaurant Management
+  packageVersion: 1.1.0
+  assetPath: Assets/Plugins/SimpleInput/Scripts/AxisInputs/Dpad.cs
+  uploadId: 736741

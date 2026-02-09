@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3009bf27b61e1746a0e08c1ce6817b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281506
+  packageName: Fast Food Rush - Hyper Casual Restaurant Management
+  packageVersion: 1.1.0
+  assetPath: Assets/Resources/DOTweenSettings.asset
+  uploadId: 736741

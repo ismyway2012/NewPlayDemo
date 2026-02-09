@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3066c3a8fcfd6fc4482868bf62045594
+timeCreated: 1504731982
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281506
+  packageName: Fast Food Rush - Hyper Casual Restaurant Management
+  packageVersion: 1.1.0
+  assetPath: Assets/Plugins/SimpleInput/Prefabs/ArrowsHorizontal.prefab
+  uploadId: 736741

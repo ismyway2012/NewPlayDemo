@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23bd993e6f5562348b23a3b7550cc6dd
+timeCreated: 1504351925
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281506
+  packageName: Fast Food Rush - Hyper Casual Restaurant Management
+  packageVersion: 1.1.0
+  assetPath: Assets/Plugins/SimpleInput/Credits.txt
+  uploadId: 736741
